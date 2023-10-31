@@ -20,6 +20,19 @@ The problem that we are trying to solve has to do with the creation of a working
 
 
 # Data Model:
+Data Model Description:
+
+
+Our model is structured like a football (soccer) academy. The Teams entity represents the information stored about each of the different teams in the club including the team ID, the team name, the team’s home field and more. Teams have many matches, which is shown by the one to many identifying relationship between Teams and Teams Have Matches. Teams also have head coaches which is represented by the one to one non identifying relationship between Teams and the entity Coaching Staff. Teams have many coaches which is shown by the one to many non identifying relationship between Teams and Coaching Staff. Teams may also have many sponsors which is represented by the one to many identifying relationship between Teams and the Teams Have Sponsors entity. Teams have many players which is shown by the one to many non identifying relationship between Teams and Player Information. Teams also have captains which are represented by the one to one non identifying relationship between Teams and Player Information.
+
+Player Information stores data like the player’s player ID, the player’s first and last name, their age and much more. Player Information has many Player Stats which is shown by the one to many identifying relationship between Player Information and Player Stats. Player Information also has many Injury Reports which is represented by the one to many identifying relationship between Player Information and Injury Report. 
+
+Teams Have Matches stores information on the match date, venue and more. Teams Have Matches stores many player stats which is shown by the one to many identifying relationship between Player Stats and Teams Have Matches. 
+
+Match stores data on the match ID, match type and more. Match is made up of many different individual matches which is represented by the one to many identifying relationship between Match and Teams Have Matches. 
+
+Divisions store information on the division ID, the division name, the division age group, the division skill level and more. Divisions have many matches which is shown by the one to many non identifying relationship between Divisions and Match. Divisions are made up of many different teams which is represented by the one to many non identifying relationship between Divisions and Teams. 
+
 
 
 
