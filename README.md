@@ -1,5 +1,5 @@
 # Group 4 MIST Group Project 1:
-# Team Name
+# Team Name:
 29704 Group 4
 # Team Members:
 
@@ -138,12 +138,12 @@ Query 9 highlights potential organizational mismanagement within teams and shows
 
 Query 10 lists the total goals scored by a team that won or tied their match in matches that are classified as competitive. This is useful information as it provides a clear record of which team won each individual match in the matches that are competitive and can be used potentially as the basis of an exterior league standings table that assigns points based on wins and losses.
 
-# Database Information
+# Database Information:
 Name of the database: ns_F2329704Group4
 
 Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: "CALL TP_QX()" where X is equal to the query number.
 
-# ChatGPT Logs
+# ChatGPT Logs:
 https://chat.openai.com/share/1f833f36-10be-44eb-a8d2-274c12e57837
 
 
