@@ -2,7 +2,6 @@
 # Team Name
 29704 Group 4
 # Team Members
-Team Members & GitHub Repository Links:
 
 Ryan Dean: @RDean45
 
