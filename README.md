@@ -1,19 +1,19 @@
 # Group 4 MIST Group Project 1:
 # Team Name
 29704 Group 4
-# Team Members
+# Team Members:
 
-Ryan Dean: @RDean45
+Ryan Dean: [@RDean45](https://github.com/RDean45)
 
-Ryan Kelly: @Rjk4133
+Ryan Kelly: [@Rjk4133](https://github.com/Rjk4133)
 
-Cameron Smith: @camjshmitt
+Cameron Smith: [@camjshmitt](https://github.com/camjshmitt/MISTGroup4Project1)
 
-Wyatt Smith: @wsmith1287 
+Wyatt Smith: [@wsmith1287](https://github.com/wsmith1287) 
 
-Mattie Garett: @MatGar22
+Mattie Garett: [@MatGar22](https://github.com/MatGar22)
 
-Lilly Wood: @lillywood21
+Lilly Wood: [@lillywood21](https://github.com/lillywood1) 
 
 
 # Problem Description:
